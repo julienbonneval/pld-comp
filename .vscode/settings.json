@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "__node_handle": "cpp",
+        "inttypes.h": "c",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "random": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
